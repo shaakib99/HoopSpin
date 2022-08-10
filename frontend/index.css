@@ -1,0 +1,71 @@
+:root {
+    --default-color: skyblue;
+  }
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.boxes{
+    margin: 1rem;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.boxarea{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0.5rem 0 0;
+    border: none;
+}
+.boxarea > p{
+    margin: 0.1rem 0 0.1rem 0;
+    padding: 0;
+    width: 100%;
+    height: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-color: var(--default-color);
+    border: 1px solid var(--default-color);
+    border-radius: 5px;
+}
+.box{
+    border: 1px solid black;
+    height: 100%;
+    resize: both;
+    max-width: 50vw;
+    resize: vertical;
+    overflow: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+.spin-button{
+    width: 20%;
+    background-color: var(--default-color);
+    border:1px solid #d3d3d3;
+    padding: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#show-related-info{
+    margin-top: 1rem;
+}
+#show-related-info > table{
+    border: 1px solid #d3d3d3;
+    text-align: center;
+}
+#show-related-info td{
+    padding: 0.5rem;
+}
+#show-related-info tr:nth-child(even){
+    background-color: #d3d3d3;
+}

@@ -1,0 +1,110 @@
+hello	hi
+incelikle	incelikli olarak
+şen	neşeli
+etiyopya ile	Etiyopya'yla
+Etiyopya'yla	Etiyopya ile
+arasÄ±ndaki 'su krizi'	arasÄ±nda yaÅŸanan "su krizi"
+arasÄ±nda yaÅŸanan su krizi	arasÄ±ndaki "su krizi"
+'su krizi' ile ilgili	su krizine iliÅŸkin
+su krizine iliÅŸkin	su kriziyle ilgili
+temaslarda bulunmak iÃ§in	gÃ¶rÃ¼ÅŸmelerde bulunmak amacÄ±yla
+gÃ¶rÃ¼ÅŸmelerde bulunmak amacÄ±yla	temaslarda bulunmak iÃ§in
+resmi ziyaret Ã¶ncesinde	resmÃ® ziyaretten Ã¶nce
+resmi ziyaretten Ã¶nce	resmÃ® ziyaret Ã¶ncesinde
+ulusal bir televizyon kanalÄ±na	bir devlet televizyonuna
+bir devlet televizyonuna	ulusal bir televizyon kanalÄ±na
+aÃ§Ä±klamalarda bulundu	aÃ§Ä±klama yaptÄ±
+aÃ§Ä±klama yaptÄ±	aÃ§Ä±klamalarda bulundu
+diyalog kurarak	diyalogda bulunarak
+diyalogda bulunarak	diyalog kurarak
+aÅŸma taraftarÄ±yÄ±z	Ã§Ã¶zme yanlÄ±sÄ±yÄ±z
+Ã§Ã¶zme yanlÄ±sÄ±yÄ±z	aÅŸma taraftarÄ±yÄ±z
+inÅŸa ettikleri	kurduklarÄ±
+barajla ilgili	baraja iliÅŸkin
+baraja iliÅŸkin	barajla ilgili
+aÅŸÄ±lmasÄ± gereken	Ã¼stesinden gelinmesi gerekli olan
+Ã¼stesinden gelinmesi gerekli olan	aÅŸÄ±lmasÄ± gereken
+var.	bulunuyor.
+bulunuyor.	bulunmaktadÄ±r.
+mÃ¼mkÃ¼n deÄŸil	olasÄ± gÃ¶rÃ¼nmÃ¼yor
+olasÄ± gÃ¶rÃ¼nmÃ¼yor	mÃ¼mkÃ¼n deÄŸil
+doldurulabilmesi	doldurulmasÄ±nÄ±n saÄŸlanmasÄ±
+doldurulmasÄ±nÄ±n saÄŸlanmasÄ±	doldurulabilmesi
+kabul etmiyorlar	kabullenmiyorlar
+kabullenmiyorlar	kabul etmiyorlar
+sattÄ±ÄŸÄ±na	satÄ±ÅŸÄ±nda bulunduÄŸuna
+satÄ±ÅŸÄ±nda bulunduÄŸuna	sattÄ±ÄŸÄ±na
+sattÄ±ÄŸÄ±na dair	sattÄ±ÄŸÄ± hakkÄ±nda
+sattÄ±ÄŸÄ± hakkÄ±nda	sattÄ±ÄŸÄ±na dair
+herhangi bir somut	elle tutulabilir bir
+elle tutulabilir bir	herhangi bir somut
+delil	kanÄ±t
+kanÄ±t	delil
+yok	bulunmuyor
+ifade etti	belirtti
+belirtti	ifade etti
+MÄ±sÄ±r devletinin	MÄ±sÄ±r'Ä±n
+MÄ±sÄ±r'Ä±n	MÄ±sÄ±r devletinin
+su iÃ§in savaÅŸma taraftarÄ±	su savaÅŸlarÄ±na girme yanlÄ±sÄ±
+su savaÅŸlarÄ±na girme yanlÄ±sÄ±	su iÃ§in savaÅŸma taraftarÄ±
+belirten	ifade eden
+ifade eden	belirten
+tÃ¼m taraflar	taraflarÄ±n tamamÄ±
+taraflarÄ±n tamamÄ±	tÃ¼m taraflar
+her zaman	her daim
+her daim	her zaman
+az maliyetlidir	dÃ¼ÅŸÃ¼k maliyete sahiptir
+dÃ¼ÅŸÃ¼k maliyete sahiptir	az maliyetlidir
+uygulamalar kabul edilemez	uygulamalarÄ±n kabulÃ¼ mÃ¼mkÃ¼n deÄŸildir
+uygulamalarÄ±n kabulÃ¼ mÃ¼mkÃ¼n deÄŸildir	uygulamalar kabul edilemez
+diye konuÅŸtu	ÅŸeklinde ifadelerde bulundu
+ÅŸeklinde ifadelerde bulundu	diye konuÅŸtu
+MÄ±sÄ±r Su KaynaklarÄ± ve Sulama BakanlÄ±ÄŸÄ±ndan	MÄ±sÄ±r Su KaynaklarÄ± ve Sulama BakanlÄ±ÄŸÄ±ndan
+yapÄ±lan aÃ§Ä±klamada	yapÄ±lmÄ±ÅŸ olan duyuruda
+yapÄ±lmÄ±ÅŸ olan duyuruda	yapÄ±lan aÃ§Ä±klamada
+aÃ§Ä±klamada ise	aÃ§Ä±klamadaysa
+aÃ§Ä±klamadaysa	aÃ§Ä±klamada ise
+yapÄ±lan aÃ§Ä±klamada ise	yapÄ±lmÄ±ÅŸ olan duyurudaysa
+yapÄ±lmÄ±ÅŸ olan duyurudaysa	yapÄ±lan aÃ§Ä±klamada ise
+iliÅŸkileri geliÅŸtirmek	diyaloglarÄ±n geliÅŸtirilmesi
+diyaloglarÄ±n geliÅŸtirilmesi	iliÅŸkileri geliÅŸtirmek
+Nehri Ã¼zerinde	Nehri'nde
+Nehri'nde	Nehri Ã¼zerinde
+inÅŸa ettiÄŸi	inÅŸasÄ±nda bulunduÄŸu
+inÅŸasÄ±nda bulunduÄŸu	inÅŸa ettiÄŸi
+BarajÄ± ile	BarajÄ±'yla
+BarajÄ±'yla	BarajÄ± ile
+BarajÄ± ile ilgili	BarajÄ±'na iliÅŸkin
+BarajÄ±'na iliÅŸkin	BarajÄ± ile ilgili
+gÃ¶rÃ¼ÅŸ alÄ±ÅŸveriÅŸinde	fikir telakkisinde
+fikir telakkisinde	gÃ¶rÃ¼ÅŸ alÄ±ÅŸveriÅŸinde
+bulunmak Ã¼zere	bulunmak iÃ§in
+bulunmak iÃ§in	bulunmak amacÄ±yla
+cuma gÃ¼nÃ¼ne	Cuma'ya
+Cuma'ya	Cuma gÃ¼nÃ¼ne
+kadar sÃ¼recek	dek devam edecek
+dek devam edecek	kadar sÃ¼recek
+belirtilmiÅŸti	ifade edilmiÅŸti
+ifade edilmiÅŸti	belirtilmiÅŸti
+Sudan'la	Sudan ile
+Sudan ile	Sudan'la
+bir anlaÅŸmaya varmamasÄ±na	anlaÅŸamamasÄ±na
+anlaÅŸamamasÄ±na	bir anlaÅŸmaya varmamasÄ±na
+barajÄ±n doldurulmasÄ±nda	barajÄ± doldurmakta
+barajÄ± doldurmakta	barajÄ±n doldurulmasÄ±nda
+Ä±srar ediyor	Ä±srarcÄ± davranÄ±yor
+Ä±srarcÄ± davranÄ±yor	Ä±srar ediyor
+yÃ¶netimleri ise	yÃ¶netimleriyse
+yÃ¶netimleriyse	yÃ¶netimleri ise
+paylarÄ±nÄ±n etkilenmemesi iÃ§in	paylarÄ±nÄ± etkilememesi amacÄ±yla
+paylarÄ±nÄ± etkilememesi amacÄ±yla	paylarÄ±nÄ±n etkilenmemesi iÃ§in
+paylarÄ±nÄ± etkilememesi	paylarÄ±nÄ±n etkilenmemesi
+paylarÄ±nÄ±n etkilenmemesi	paylarÄ±nÄ± etkilememesi
+anlaÅŸmaya varÄ±lmasÄ±	anlaÅŸmanÄ±n saÄŸlanmasÄ±
+anlaÅŸmanÄ±n saÄŸlanmasÄ±	anlaÅŸmaya varÄ±lmasÄ±
+gerektiÄŸini vurguluyor	gerekliliÄŸine dikkat Ã§ekiyor
+gerekliliÄŸine dikkat Ã§ekiyor	gerekliliÄŸini vurguluyor
+ziyarette bulunacaÄŸÄ±	ziyaret gerÃ§ekleÅŸtireceÄŸini
+ziyaret gerÃ§ekleÅŸtireceÄŸini	ziyarette bulunacaÄŸÄ±nÄ±
+diyen	diye belirten
+diye belirten	diyen
